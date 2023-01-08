@@ -1,0 +1,16 @@
+
+
+customer_table :
+  columns:
+    customer_name : customer_name
+    customer_address : customer_address
+    city : city
+
+
+employee_table :
+  columns:
+    employee_first_name : employee_first_name
+    employee_second_name : employee_second_name
+    salary : salary
+    city : city
+    
